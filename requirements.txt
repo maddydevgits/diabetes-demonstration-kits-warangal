@@ -2,5 +2,6 @@ pandas
 numpy
 matplotlib
 sklearn
+scikit-learn
 flask
 gunicorn
